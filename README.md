@@ -9,7 +9,7 @@ Utiliza o Eureka server como funcionalidade Discovery.
 Requisitos para rodar:\
 Java 22\
 Docker(opcional, caso queira montar a imagem e executar)\
-https://docs.docker.com/desktop/install/windows-install/
+https://docs.docker.com/desktop/install/windows-install/ \
 https://docs.docker.com/desktop/install/linux-install/
 
 Possibilidade de utilização do Docker para rodar\
